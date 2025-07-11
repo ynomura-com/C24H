@@ -1,4 +1,4 @@
-var CACHE_NAME = 'C24H-caches';
+var CACHE_NAME = 'C24H';
 var urlsToCache = [
 	'/C24H/',
 ];
